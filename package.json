@@ -1,0 +1,22 @@
+{
+  "name": "frontend-plugin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kcexa/frontend-plugin.git"
+  },
+  "keywords": [
+    "plugin"
+  ],
+  "author": "kcexa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kcexa/frontend-plugin/issues"
+  },
+  "homepage": "https://github.com/Kcexa/frontend-plugin#readme"
+}

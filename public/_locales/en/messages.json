@@ -1,0 +1,11 @@
+{
+    "appName": {
+        "message": "FrontendTools"
+    },
+    "appDescription": {
+        "message": "Extension for front-end developers"
+    },
+    "appTooltip": {
+        "message": "FrontendTools"
+    }
+}
